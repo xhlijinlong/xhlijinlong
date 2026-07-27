@@ -19,5 +19,6 @@
 ---
 
 ### 📈 GitHub 统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhlijinlong&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhlijinlong&layout=compact&theme=radial)
+<!-- 备用稳定版 GitHub 统计卡片 -->
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xhlijinlong&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xhlijinlong&layout=compact&theme=radial)
