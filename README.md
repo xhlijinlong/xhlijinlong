@@ -20,7 +20,6 @@
 
 ### 📈 GitHub 统计
 <!-- 备用稳定版 GitHub 统计卡片 -->
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xhlijinlong&layout=compact&theme=radial)
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xhlijinlong&show_icons=true&theme=radial)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xhlijinlong&theme=radial)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xhlijinlong&layout=compact&theme=radial)
